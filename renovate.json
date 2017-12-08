@@ -1,6 +1,6 @@
 {
   "extends": [
-    "config:app"
+    "config:js-app"
   ],
   "ignorePaths": ["test/"]
 }

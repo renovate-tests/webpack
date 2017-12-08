@@ -1,7 +1,6 @@
 {
   "extends": [
-    "config:base",
-    "default:pinVersions"
+    "config:app"
   ],
   "ignorePaths": ["test/"]
 }
